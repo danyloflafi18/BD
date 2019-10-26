@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.8.0" timestamp="2019-10-20T21:07:59.185">
+<file name="D:\lab4\src\main\java\database\Main.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Best Practices" package="database" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="47" endline="49" begincolumn="15" endcolumn="13" rule="EmptyCatchBlock" ruleset="Error Prone" package="database" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="53" endline="54" begincolumn="15" endcolumn="13" rule="EmptyCatchBlock" ruleset="Error Prone" package="database" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="58" endline="59" begincolumn="15" endcolumn="13" rule="EmptyCatchBlock" ruleset="Error Prone" package="database" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="98" endline="98" begincolumn="25" endcolumn="44" rule="UnusedPrivateMethod" ruleset="Best Practices" package="database" class="Main" method="updateNameOfVictim" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'updateNameOfVictim()'.
+</violation>
+<violation beginline="111" endline="111" begincolumn="25" endcolumn="40" rule="UnusedPrivateMethod" ruleset="Best Practices" package="database" class="Main" method="insertHospital" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'insertHospital()'.
+</violation>
+<violation beginline="129" endline="129" begincolumn="25" endcolumn="40" rule="UnusedPrivateMethod" ruleset="Best Practices" package="database" class="Main" method="deleteHospital" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'deleteHospital()'.
+</violation>
+</file>
+</pmd>
